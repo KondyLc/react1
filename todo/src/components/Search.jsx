@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 export const Search = ({Search, setSearch}) => {
   return <div className="search">
